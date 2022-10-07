@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @juanluisja1
-- 👀  I’m interested in machine learning, web and mobile development, and backend.
-- 🌱  I’m currently learning node, express, and deployments using containers.
+- 👀  I’m interested in machine learning, web, mobile development, devOps and backend development.
+- 🌱  I’m currently learning node, typeScript, Rust and deployments using containers.
 - 💞️  I’m looking to collaborate on mobile, web and open source projects.
 - 📫  How to reach me, by email: juanluisja261@gmail.com | on discord:juanluisja 
 
